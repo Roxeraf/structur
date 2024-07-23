@@ -107,4 +107,3 @@ try:
 
 except ModuleNotFoundError as e:
     st.error(f"Modul nicht gefunden: {e}. Stellen Sie sicher, dass alle erforderlichen Bibliotheken installiert sind.")
-
